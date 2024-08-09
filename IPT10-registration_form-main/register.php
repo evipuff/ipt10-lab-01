@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="tf2.jpg" alt="AUF Logo" class="logo">
+        <img src="https://www.auf.edu.ph/images/auf-logo.png" alt="AUF Logo" class="logo">
         <h2>AUF Student Registration</h2>
         <form action="summary.php" method="post">
             <div class="form-group">
